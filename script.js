@@ -35,7 +35,6 @@ perguntas.forEach(pergunta => {
     imagens.push(imagem);
 });
 
-console.log(imagens[10]);
 
 const btnStart = document.querySelector('.start');
 const telas = document.querySelectorAll('.tela');
